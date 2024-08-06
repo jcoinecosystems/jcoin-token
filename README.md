@@ -1,2 +1,2 @@
-# jcoin-token
-Jcoin (JCN) Token
+# Jcoin (JCN) Token
+> [Documentation](/docs/).
